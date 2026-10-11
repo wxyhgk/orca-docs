@@ -26,3 +26,4 @@ tmp/
 # python venv
 .venv/
 venv/
+site_out/

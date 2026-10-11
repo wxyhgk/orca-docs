@@ -3,7 +3,7 @@ on:
   push:
     branches: [main]
 permissions:
-  contents: read
+  contents: write
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -13,9 +13,11 @@ jobs:
         with:
           python-version: "3.x"
       - run: pip install mkdocs-material mkdocs-static-i18n
-      - run: mkdocs build -f docs-site/mkdocs.yml -d site
+      # site_dir on CLI is resolved relative to cwd (repo root)
+      - name: Build
+        run: mkdocs build -f docs-site/mkdocs.yml -d "$GITHUB_WORKSPACE/site_out"
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+          publish_dir: ./site_out
