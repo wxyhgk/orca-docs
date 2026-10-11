@@ -31,4 +31,4 @@ mkdocs serve
 
 ## 自动构建
 
-Push 到 `main` 触发 GitHub Actions，构建 MkDocs 并发布到 `gh-pages` / 自定义 Pages。
+Push 到 `main` 触发 GitHub Actions，构建 MkDocs 并发布到主站 **https://wxyhgk.github.io/doc/orca/**（`wxyhgk/wxyhgk.github.io` 的 `doc/orca`）。
