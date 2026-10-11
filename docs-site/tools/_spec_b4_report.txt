@@ -1,0 +1,1205 @@
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/CASSCFresp.md:
+  - 1 bare (sec:...) link target(s) -> (#sec:...)
+  - 3 sec: link text(s) humanized
+  - L22: removed blank line(s) inside $$ display block
+  - L10: removed blank line(s) inside $$ display block
+  - L12: normalized $$ delimiter whitespace
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/adld.md:
+  - 2 bare (sec:...) link target(s) -> (#sec:...)
+  - L21: removed blank line(s) inside $$ display block
+  - L13: removed blank line(s) inside $$ display block
+  - L15: normalized $$ delimiter whitespace
+  - L21: normalized $$ delimiter whitespace
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/asa.md:
+  - 3 sec: link text(s) humanized
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/asageneral.md:
+  - 1 sec: link text(s) humanized
+  - L5: dropped orphan option `:class: warning`
+  - L1070: joined multi-line inline $...$ span
+  - L1072: joined multi-line inline $...$ span
+  - L1112: joined multi-line inline $...$ span
+  - L1117: joined multi-line inline $...$ span
+  - L1330: joined multi-line inline $...$ span
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/deltascf.md:
+  - 1 sec: link text(s) humanized
+  - L478: removed blank line(s) inside $$ display block
+  - L154: removed blank line(s) inside $$ display block
+  - L125: removed blank line(s) inside $$ display block
+  - L105: removed blank line(s) inside $$ display block
+  - L97: removed blank line(s) inside $$ display block
+  - L85: removed blank line(s) inside $$ display block
+  - L470: normalized $$ delimiter whitespace
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/dleom.md:
+  - L39: removed blank line(s) inside $$ display block
+  - L30: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/dlpno-steom.md:
+  - 2 sec: link text(s) humanized
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/electric.md:
+  - 14 sec: link text(s) humanized
+  - L576: removed blank line(s) inside $$ display block
+  - L563: removed blank line(s) inside $$ display block
+  - L548: removed blank line(s) inside $$ display block
+  - L535: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/eom.md:
+  - 4 sec: link text(s) humanized
+  - L589: dropped orphan option `:class: footnotesize`
+  - L599: dropped orphan option `:class: footnotesize`
+  - L599: dropped orphan option `:header-rows: 1`
+  - flat-table -> 3-column pipe table (32 rows)
+  - L815: dropped orphan option `:class: footnotesize`
+  - L815: dropped orphan option `:header-rows: 1`
+  - flat-table -> 3-column pipe table (23 rows)
+  - L305: removed blank line(s) inside $$ display block
+  - L292: removed blank line(s) inside $$ display block
+  - L286: removed blank line(s) inside $$ display block
+  - L240: removed blank line(s) inside $$ display block
+  - L232: removed blank line(s) inside $$ display block
+  - L19: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/eomcore.md: no change
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/epr.md:
+  - 4 bare (sec:...) link target(s) -> (#sec:...)
+  - 18 sec: link text(s) humanized
+  - L220: dropped orphan option `:header-rows: 1`
+  - L220: dropped orphan option `:class: longtable`
+  - L220: dropped orphan option `:class: footnotesize`
+  - flat-table -> 3-column pipe table (11 rows)
+  - L645: dropped orphan option `:class: footnotesize`
+  - L660: dropped orphan option `:header-rows: 1`
+  - L660: dropped orphan option `:class: longtable`
+  - L660: dropped orphan option `:class: footnotesize`
+  - flat-table -> 3-column pipe table (8 rows)
+  - L1280: removed blank line(s) inside $$ display block
+  - L1246: removed blank line(s) inside $$ display block
+  - L1215: removed blank line(s) inside $$ display block
+  - L1208: removed blank line(s) inside $$ display block
+  - L1202: removed blank line(s) inside $$ display block
+  - L1195: removed blank line(s) inside $$ display block
+  - L1187: removed blank line(s) inside $$ display block
+  - L1180: removed blank line(s) inside $$ display block
+  - L1163: removed blank line(s) inside $$ display block
+  - L1152: removed blank line(s) inside $$ display block
+  - L1139: removed blank line(s) inside $$ display block
+  - L1127: removed blank line(s) inside $$ display block
+  - L1113: removed blank line(s) inside $$ display block
+  - L1102: removed blank line(s) inside $$ display block
+  - L1082: removed blank line(s) inside $$ display block
+  - L1073: removed blank line(s) inside $$ display block
+  - L1063: removed blank line(s) inside $$ display block
+  - L1051: removed blank line(s) inside $$ display block
+  - L1042: removed blank line(s) inside $$ display block
+  - L1034: removed blank line(s) inside $$ display block
+  - L1006: removed blank line(s) inside $$ display block
+  - L990: removed blank line(s) inside $$ display block
+  - L980: removed blank line(s) inside $$ display block
+  - L965: removed blank line(s) inside $$ display block
+  - L949: removed blank line(s) inside $$ display block
+  - L930: removed blank line(s) inside $$ display block
+  - L920: removed blank line(s) inside $$ display block
+  - L901: removed blank line(s) inside $$ display block
+  - L883: removed blank line(s) inside $$ display block
+  - L875: removed blank line(s) inside $$ display block
+  - L867: removed blank line(s) inside $$ display block
+  - L846: removed blank line(s) inside $$ display block
+  - L838: removed blank line(s) inside $$ display block
+  - L827: removed blank line(s) inside $$ display block
+  - L814: removed blank line(s) inside $$ display block
+  - L803: removed blank line(s) inside $$ display block
+  - L795: removed blank line(s) inside $$ display block
+  - L785: removed blank line(s) inside $$ display block
+  - L769: removed blank line(s) inside $$ display block
+  - L666: removed blank line(s) inside $$ display block
+  - L656: removed blank line(s) inside $$ display block
+  - L647: removed blank line(s) inside $$ display block
+  - L622: removed blank line(s) inside $$ display block
+  - L312: removed blank line(s) inside $$ display block
+  - L300: removed blank line(s) inside $$ display block
+  - L281: removed blank line(s) inside $$ display block
+  - L259: removed blank line(s) inside $$ display block
+  - L246: removed blank line(s) inside $$ display block
+  - L87: removed blank line(s) inside $$ display block
+  - L75: removed blank line(s) inside $$ display block
+  - L64: removed blank line(s) inside $$ display block
+  - L50: removed blank line(s) inside $$ display block
+  - L38: removed blank line(s) inside $$ display block
+  - L10: removed blank line(s) inside $$ display block
+  - L46: normalized $$ delimiter whitespace
+  - L58: normalized $$ delimiter whitespace
+  - L67: normalized $$ delimiter whitespace
+  - L77: normalized $$ delimiter whitespace
+  - L245: normalized $$ delimiter whitespace
+  - L265: normalized $$ delimiter whitespace
+  - L282: normalized $$ delimiter whitespace
+  - L292: normalized $$ delimiter whitespace
+  - L600: normalized $$ delimiter whitespace
+  - L623: normalized $$ delimiter whitespace
+  - L630: normalized $$ delimiter whitespace
+  - L638: normalized $$ delimiter whitespace
+  - L256: joined multi-line inline $...$ span
+  - L747: joined multi-line inline $...$ span
+  - L860: joined multi-line inline $...$ span
+  - L882: joined multi-line inline $...$ span
+  - L886: joined multi-line inline $...$ span
+  - L900: joined multi-line inline $...$ span
+  - L1118: joined multi-line inline $...$ span
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/esd.md:
+  - 43 sec: link text(s) humanized
+  - L2001: dropped orphan option `:header-rows: 1`
+  - L2001: dropped orphan option `:stub-columns: 1`
+  - flat-table -> 3-column pipe table (9 rows)
+  - L2452: removed blank line(s) inside $$ display block
+  - L2443: removed blank line(s) inside $$ display block
+  - L2429: removed blank line(s) inside $$ display block
+  - L2415: removed blank line(s) inside $$ display block
+  - L2406: removed blank line(s) inside $$ display block
+  - L2357: removed blank line(s) inside $$ display block
+  - L2236: removed blank line(s) inside $$ display block
+  - L2222: removed blank line(s) inside $$ display block
+  - L2176: removed blank line(s) inside $$ display block
+  - L2166: removed blank line(s) inside $$ display block
+  - L2141: removed blank line(s) inside $$ display block
+  - L1957: removed blank line(s) inside $$ display block
+  - L1948: removed blank line(s) inside $$ display block
+  - L1927: removed blank line(s) inside $$ display block
+  - L1915: removed blank line(s) inside $$ display block
+  - L1896: removed blank line(s) inside $$ display block
+  - L1887: removed blank line(s) inside $$ display block
+  - L1872: removed blank line(s) inside $$ display block
+  - L1856: removed blank line(s) inside $$ display block
+  - L1670: removed blank line(s) inside $$ display block
+  - L1657: removed blank line(s) inside $$ display block
+  - L1647: removed blank line(s) inside $$ display block
+  - L1635: removed blank line(s) inside $$ display block
+  - L1629: removed blank line(s) inside $$ display block
+  - L1615: removed blank line(s) inside $$ display block
+  - L1600: removed blank line(s) inside $$ display block
+  - L1581: removed blank line(s) inside $$ display block
+  - L1386: removed blank line(s) inside $$ display block
+  - L1375: removed blank line(s) inside $$ display block
+  - L1369: removed blank line(s) inside $$ display block
+  - L1363: removed blank line(s) inside $$ display block
+  - L1354: removed blank line(s) inside $$ display block
+  - L1341: removed blank line(s) inside $$ display block
+  - L1320: removed blank line(s) inside $$ display block
+  - L1314: removed blank line(s) inside $$ display block
+  - L1306: removed blank line(s) inside $$ display block
+  - L1300: removed blank line(s) inside $$ display block
+  - L1292: removed blank line(s) inside $$ display block
+  - L1282: removed blank line(s) inside $$ display block
+  - L1177: removed blank line(s) inside $$ display block
+  - L792: removed blank line(s) inside $$ display block
+  - L773: removed blank line(s) inside $$ display block
+  - L617: removed blank line(s) inside $$ display block
+  - L591: removed blank line(s) inside $$ display block
+  - L581: removed blank line(s) inside $$ display block
+  - added blank line(s) around $$ display block(s)
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/excitedstates.md:
+  - L214: stripped trailing '-->' from fence closer
+  - L336: stripped trailing '-->' from fence closer
+  - L634: stripped trailing '-->' from fence closer
+  - L918: stripped trailing '-->' from fence closer
+  - L1121: stripped trailing '-->' from fence closer
+  - L1273: stripped trailing '-->' from fence closer
+  - L1425: stripped trailing '-->' from fence closer
+  - L200: unwrapped commented fence opener
+  - L289: unwrapped commented fence opener
+  - L596: unwrapped commented fence opener
+  - L891: unwrapped commented fence opener
+  - L1094: unwrapped commented fence opener
+  - L1268: unwrapped commented fence opener
+  - L1418: unwrapped commented fence opener
+  - 20 sec: link text(s) humanized
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/fod.md:
+  - 6 bare (sec:...) link target(s) -> (#sec:...)
+  - 8 sec: link text(s) humanized
+  - L122: dropped orphan option `:class: note`
+  - L236: dropped orphan option `:width: 70%`
+  - L331: dropped orphan option `:width: 50%`
+  - L110: removed blank line(s) inside $$ display block
+  - L34: removed blank line(s) inside $$ display block
+  - L24: removed blank line(s) inside $$ display block
+  - L106: normalized $$ delimiter whitespace
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/hfld.md:
+  - 1 sec: link text(s) humanized
+  - L256: dropped orphan option `:header-rows: 1`
+  - L256: dropped orphan option `:class: longtable`
+  - L256: dropped orphan option `:class: footnotesize`
+  - flat-table -> 3-column pipe table (10 rows)
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/ihfsmr.md:
+  - 1 sec: link text(s) humanized
+  - L183: removed blank line(s) inside $$ display block
+  - L174: removed blank line(s) inside $$ display block
+  - L163: removed blank line(s) inside $$ display block
+  - L154: removed blank line(s) inside $$ display block
+  - L106: removed blank line(s) inside $$ display block
+  - L97: removed blank line(s) inside $$ display block
+  - L72: removed blank line(s) inside $$ display block
+  - L65: removed blank line(s) inside $$ display block
+  - L53: removed blank line(s) inside $$ display block
+  - L38: removed blank line(s) inside $$ display block
+  - L28: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/index_spectroscopyproperties.md: no change
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/led.md:
+  - MyST roles/targets fixed
+  - 3 bare (sec:...) link target(s) -> (#sec:...)
+  - 13 sec: link text(s) humanized
+  - L625: dropped orphan option `:header-rows: 1`
+  - L625: dropped orphan option `:class: longtable`
+  - L625: dropped orphan option `:class: footnotesize`
+  - flat-table -> 8-column pipe table (3 rows)
+  - L971: dropped orphan option `:subcaptions: below`
+  - image path: ../../images/led-map.svg -> ../../../images/manual/led-map.svg
+  - image path: ../../images/covaled-map.svg -> ../../../images/manual/covaled-map.svg
+  - L1270: removed blank line(s) inside $$ display block
+  - L1262: removed blank line(s) inside $$ display block
+  - L1229: removed blank line(s) inside $$ display block
+  - L1223: removed blank line(s) inside $$ display block
+  - L613: removed blank line(s) inside $$ display block
+  - L602: removed blank line(s) inside $$ display block
+  - L593: removed blank line(s) inside $$ display block
+  - L575: removed blank line(s) inside $$ display block
+  - L570: removed blank line(s) inside $$ display block
+  - L556: removed blank line(s) inside $$ display block
+  - L547: removed blank line(s) inside $$ display block
+  - L536: removed blank line(s) inside $$ display block
+  - L524: removed blank line(s) inside $$ display block
+  - L64: removed blank line(s) inside $$ display block
+  - L1240: normalized $$ delimiter whitespace
+  - L1246: normalized $$ delimiter whitespace
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/magnx.md:
+  - 2 sec: link text(s) humanized
+  - L249: removed blank line(s) inside $$ display block
+  - L241: removed blank line(s) inside $$ display block
+  - L233: removed blank line(s) inside $$ display block
+  - L225: removed blank line(s) inside $$ display block
+  - L217: removed blank line(s) inside $$ display block
+  - L206: removed blank line(s) inside $$ display block
+  - L184: removed blank line(s) inside $$ display block
+  - L162: removed blank line(s) inside $$ display block
+  - L154: removed blank line(s) inside $$ display block
+  - L143: removed blank line(s) inside $$ display block
+  - L135: removed blank line(s) inside $$ display block
+  - L60: removed blank line(s) inside $$ display block
+  - L54: removed blank line(s) inside $$ display block
+  - L48: removed blank line(s) inside $$ display block
+  - L11: removed blank line(s) inside $$ display block
+  - L39: joined multi-line inline $...$ span
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/magrelax.md:
+  - 1 sec: link text(s) humanized
+  - L65: removed blank line(s) inside $$ display block
+  - L54: removed blank line(s) inside $$ display block
+  - L36: removed blank line(s) inside $$ display block
+  - L26: removed blank line(s) inside $$ display block
+  - L12: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/mcd.md:
+  - L108: removed blank line(s) inside $$ display block
+  - L76: removed blank line(s) inside $$ display block
+  - L52: removed blank line(s) inside $$ display block
+  - L33: removed blank line(s) inside $$ display block
+  - L17: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/mcrpa.md:
+  - 16 bare (sec:...) link target(s) -> (#sec:...)
+  - 4 sec: link text(s) humanized
+  - L161: removed blank line(s) inside $$ display block
+  - L142: removed blank line(s) inside $$ display block
+  - L124: removed blank line(s) inside $$ display block
+  - L108: removed blank line(s) inside $$ display block
+  - L73: removed blank line(s) inside $$ display block
+  - L38: removed blank line(s) inside $$ display block
+  - L25: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/moessbauer.md:
+  - 2 sec: link text(s) humanized
+  - L171: dropped orphan option `:header-rows: 1`
+  - L171: dropped orphan option `:class: longtable`
+  - L171: dropped orphan option `:class: footnotesize`
+  - flat-table -> 4-column pipe table (9 rows)
+  - triple-backtick inline -> single: '```SPECIALGRIDINTACC```'
+  - L90: removed blank line(s) inside $$ display block
+  - L75: removed blank line(s) inside $$ display block
+  - L64: removed blank line(s) inside $$ display block
+  - L32: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/nbo.md:
+  - 2 sec: link text(s) humanized
+  - L424: dropped orphan option `:subcaptions: below`
+  - L424: dropped orphan option `:class-grid: outline`
+  - image path: ../../images/732.* -> ../../../images/manual/732.svg
+  - image path: ../../images/733.* -> ../../../images/manual/733.svg
+  - image path: ../../images/734.* -> ../../../images/manual/734.svg
+  - image path: ../../images/735.* -> ../../../images/manual/735.svg
+  - image path: ../../images/736.* -> ../../../images/manual/736.svg
+  - image path: ../../images/737.* -> ../../../images/manual/737.svg
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/nmr.md:
+  - 5 bare (sec:...) link target(s) -> (#sec:...)
+  - 9 sec: link text(s) humanized
+  - L825: removed blank line(s) inside $$ display block
+  - L776: removed blank line(s) inside $$ display block
+  - L762: removed blank line(s) inside $$ display block
+  - L750: removed blank line(s) inside $$ display block
+  - L740: removed blank line(s) inside $$ display block
+  - L724: removed blank line(s) inside $$ display block
+  - L714: removed blank line(s) inside $$ display block
+  - L623: removed blank line(s) inside $$ display block
+  - L465: removed blank line(s) inside $$ display block
+  - L255: removed blank line(s) inside $$ display block
+  - L247: removed blank line(s) inside $$ display block
+  - L239: removed blank line(s) inside $$ display block
+  - L231: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/nocv.md:
+  - 2 bare (sec:...) link target(s) -> (#sec:...)
+  - 1 sec: link text(s) humanized
+  - L419: dropped orphan option `:header-rows: 1`
+  - flat-table -> 3-column pipe table (11 rows)
+  - L37: removed blank line(s) inside $$ display block
+  - L21: removed blank line(s) inside $$ display block
+  - L13: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/ops.md:
+  - L228: removed blank line(s) inside $$ display block
+  - L125: removed blank line(s) inside $$ display block
+  - L117: removed blank line(s) inside $$ display block
+  - L111: removed blank line(s) inside $$ display block
+  - L55: removed blank line(s) inside $$ display block
+  - L47: removed blank line(s) inside $$ display block
+  - L34: removed blank line(s) inside $$ display block
+  - L24: removed blank line(s) inside $$ display block
+  - L12: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/poly_aniso.md:
+  - image path: ../../images/singleaniso1.* -> ../../../images/manual/singleaniso1.png
+  - L660: removed blank line(s) inside $$ display block
+  - L642: removed blank line(s) inside $$ display block
+  - L528: removed blank line(s) inside $$ display block
+  - L482: removed blank line(s) inside $$ display block
+  - L457: removed blank line(s) inside $$ display block
+  - L424: removed blank line(s) inside $$ display block
+  - L76: removed blank line(s) inside $$ display block
+  - L422: normalized $$ delimiter whitespace
+  - L453: normalized $$ delimiter whitespace
+  - L476: normalized $$ delimiter whitespace
+  - L632: normalized $$ delimiter whitespace
+  - L648: normalized $$ delimiter whitespace
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/population.md:
+  - 21 bare (sec:...) link target(s) -> (#sec:...)
+  - L1269: dropped orphan option `:header-rows: 1`
+  - L1269: dropped orphan option `:class: longtable`
+  - L1269: dropped orphan option `:class: footnotesize`
+  - flat-table -> 3-column pipe table (11 rows)
+  - L1038: removed blank line(s) inside $$ display block
+  - L1029: removed blank line(s) inside $$ display block
+  - L1023: removed blank line(s) inside $$ display block
+  - L1017: removed blank line(s) inside $$ display block
+  - L1009: removed blank line(s) inside $$ display block
+  - L998: removed blank line(s) inside $$ display block
+  - L987: removed blank line(s) inside $$ display block
+  - L976: removed blank line(s) inside $$ display block
+  - L966: removed blank line(s) inside $$ display block
+  - L958: removed blank line(s) inside $$ display block
+  - L950: removed blank line(s) inside $$ display block
+  - L941: removed blank line(s) inside $$ display block
+  - L931: removed blank line(s) inside $$ display block
+  - L923: removed blank line(s) inside $$ display block
+  - L914: removed blank line(s) inside $$ display block
+  - L908: removed blank line(s) inside $$ display block
+  - L902: removed blank line(s) inside $$ display block
+  - L892: removed blank line(s) inside $$ display block
+  - L886: removed blank line(s) inside $$ display block
+  - L878: removed blank line(s) inside $$ display block
+  - L872: removed blank line(s) inside $$ display block
+  - L863: removed blank line(s) inside $$ display block
+  - L851: removed blank line(s) inside $$ display block
+  - L846: removed blank line(s) inside $$ display block
+  - L838: removed blank line(s) inside $$ display block
+  - L833: removed blank line(s) inside $$ display block
+  - L825: removed blank line(s) inside $$ display block
+  - L817: removed blank line(s) inside $$ display block
+  - L812: removed blank line(s) inside $$ display block
+  - L803: removed blank line(s) inside $$ display block
+  - L798: removed blank line(s) inside $$ display block
+  - L793: removed blank line(s) inside $$ display block
+  - L785: removed blank line(s) inside $$ display block
+  - L777: removed blank line(s) inside $$ display block
+  - L762: removed blank line(s) inside $$ display block
+  - L754: removed blank line(s) inside $$ display block
+  - L743: removed blank line(s) inside $$ display block
+  - L738: removed blank line(s) inside $$ display block
+  - L504: removed blank line(s) inside $$ display block
+  - L490: removed blank line(s) inside $$ display block
+  - L484: removed blank line(s) inside $$ display block
+  - L475: removed blank line(s) inside $$ display block
+  - L467: removed blank line(s) inside $$ display block
+  - L402: removed blank line(s) inside $$ display block
+  - L392: removed blank line(s) inside $$ display block
+  - L383: removed blank line(s) inside $$ display block
+  - L315: removed blank line(s) inside $$ display block
+  - L306: removed blank line(s) inside $$ display block
+  - L296: removed blank line(s) inside $$ display block
+  - L283: removed blank line(s) inside $$ display block
+  - L195: removed blank line(s) inside $$ display block
+  - L185: removed blank line(s) inside $$ display block
+  - L177: removed blank line(s) inside $$ display block
+  - L112: removed blank line(s) inside $$ display block
+  - L102: removed blank line(s) inside $$ display block
+  - L92: removed blank line(s) inside $$ display block
+  - L80: removed blank line(s) inside $$ display block
+  - L71: removed blank line(s) inside $$ display block
+  - L60: removed blank line(s) inside $$ display block
+  - L52: removed blank line(s) inside $$ display block
+  - L43: removed blank line(s) inside $$ display block
+  - L34: removed blank line(s) inside $$ display block
+  - added blank line(s) around $$ display block(s)
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/postHF_magprop.md:
+  - 4 sec: link text(s) humanized
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/qdpt_magnetic_properties.md:
+  - 7 sec: link text(s) humanized
+  - L237: removed blank line(s) inside $$ display block
+  - L228: removed blank line(s) inside $$ display block
+  - L169: removed blank line(s) inside $$ display block
+  - L154: removed blank line(s) inside $$ display block
+  - L139: removed blank line(s) inside $$ display block
+  - L120: removed blank line(s) inside $$ display block
+  - L107: removed blank line(s) inside $$ display block
+  - L82: removed blank line(s) inside $$ display block
+  - L62: removed blank line(s) inside $$ display block
+  - L43: removed blank line(s) inside $$ display block
+  - L21: removed blank line(s) inside $$ display block
+  - L69: joined multi-line inline $...$ span
+  - L86: joined multi-line inline $...$ span
+  - L136: joined multi-line inline $...$ span
+  - L381: joined multi-line inline $...$ span
+  - L391: joined multi-line inline $...$ span
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/rocis.md:
+  - L423: stripped trailing '-->' from fence closer
+  - L417: unwrapped commented fence opener
+  - 8 sec: link text(s) humanized
+  - L1427: dropped orphan option `:class: footnotesize`
+  - L902: removed blank line(s) inside $$ display block
+  - L893: removed blank line(s) inside $$ display block
+  - L887: removed blank line(s) inside $$ display block
+  - L876: removed blank line(s) inside $$ display block
+  - L870: removed blank line(s) inside $$ display block
+  - L864: removed blank line(s) inside $$ display block
+  - L353: removed blank line(s) inside $$ display block
+  - L39: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/single_aniso.md:
+  - 4 sec: link text(s) humanized
+  - image path: ../../images/singleaniso1.* -> ../../../images/manual/singleaniso1.png
+  - escaped ORCA $var in double quotes
+  - L920: removed blank line(s) inside $$ display block
+  - L901: removed blank line(s) inside $$ display block
+  - L331: removed blank line(s) inside $$ display block
+  - L899: normalized $$ delimiter whitespace
+  - added blank line(s) around $$ display block(s)
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/spinorbit.md:
+  - L345: dropped orphan option `:header-rows: 1`
+  - L345: dropped orphan option `:class: footnotesize`
+  - flat-table -> 4-column pipe table (11 rows)
+  - L182: removed blank line(s) inside $$ display block
+  - L152: removed blank line(s) inside $$ display block
+  - L145: removed blank line(s) inside $$ display block
+  - L130: removed blank line(s) inside $$ display block
+  - L114: removed blank line(s) inside $$ display block
+  - L106: removed blank line(s) inside $$ display block
+  - L98: removed blank line(s) inside $$ display block
+  - L89: removed blank line(s) inside $$ display block
+  - L122: normalized $$ delimiter whitespace
+  - L135: normalized $$ delimiter whitespace
+  - L140: normalized $$ delimiter whitespace
+  - L145: joined multi-line inline $...$ span
+  - L154: joined multi-line inline $...$ span
+  - L159: joined multi-line inline $...$ span
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/steom.md:
+  - 3 sec: link text(s) humanized
+  - L328: removed blank line(s) inside $$ display block
+  - L319: removed blank line(s) inside $$ display block
+  - L108: removed blank line(s) inside $$ display block
+  - L59: removed blank line(s) inside $$ display block
+  - L46: removed blank line(s) inside $$ display block
+  - L39: removed blank line(s) inside $$ display block
+  - L32: removed blank line(s) inside $$ display block
+  - L22: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/tddft.md:
+  - L277: stripped trailing '-->' from fence closer
+  - L464: stripped trailing '-->' from fence closer
+  - L504: stripped trailing '-->' from fence closer
+  - L573: stripped trailing '-->' from fence closer
+  - L612: stripped trailing '-->' from fence closer
+  - L686: stripped trailing '-->' from fence closer
+  - L1091: stripped trailing '-->' from fence closer
+  - L1253: stripped trailing '-->' from fence closer
+  - L1321: stripped trailing '-->' from fence closer
+  - L1703: stripped trailing '-->' from fence closer
+  - L2040: stripped trailing '-->' from fence closer
+  - L2305: stripped trailing '-->' from fence closer
+  - L2423: stripped trailing '-->' from fence closer
+  - L2623: stripped trailing '-->' from fence closer
+  - L271: unwrapped commented fence opener
+  - L462: unwrapped commented fence opener
+  - L498: unwrapped commented fence opener
+  - L568: unwrapped commented fence opener
+  - L607: unwrapped commented fence opener
+  - L681: unwrapped commented fence opener
+  - L1085: unwrapped commented fence opener
+  - L1152: unwrapped commented fence opener
+  - L1317: unwrapped commented fence opener
+  - L1691: unwrapped commented fence opener
+  - L2013: unwrapped commented fence opener
+  - L2280: unwrapped commented fence opener
+  - L2395: unwrapped commented fence opener
+  - L2597: unwrapped commented fence opener
+  - 12 sec: link text(s) humanized
+  - L3137: dropped orphan option `:class: footnotesize`
+  - triple-backtick inline -> single: '```DOTRANS ALL```'
+  - L2780: removed blank line(s) inside $$ display block
+  - L2752: removed blank line(s) inside $$ display block
+  - L2738: removed blank line(s) inside $$ display block
+  - L2724: removed blank line(s) inside $$ display block
+  - L997: removed blank line(s) inside $$ display block
+  - L978: removed blank line(s) inside $$ display block
+  - L972: removed blank line(s) inside $$ display block
+  - L962: removed blank line(s) inside $$ display block
+  - L956: removed blank line(s) inside $$ display block
+  - L941: removed blank line(s) inside $$ display block
+  - L714: removed blank line(s) inside $$ display block
+  - L703: removed blank line(s) inside $$ display block
+  - L405: removed blank line(s) inside $$ display block
+  - L363: removed blank line(s) inside $$ display block
+  - L352: removed blank line(s) inside $$ display block
+  - L341: removed blank line(s) inside $$ display block
+  - L317: removed blank line(s) inside $$ display block
+  - L2754: joined multi-line inline $...$ span
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/vibrations.md:
+  - 8 sec: link text(s) humanized
+  - L356: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/vpt2.md:
+  - 1 sec: link text(s) humanized
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/spectroscopyproperties/xes.md:
+  - 10 sec: link text(s) humanized
+  - L371: removed blank line(s) inside $$ display block
+  - L363: removed blank line(s) inside $$ display block
+  - L353: removed blank line(s) inside $$ display block
+  - L347: removed blank line(s) inside $$ display block
+  - L341: removed blank line(s) inside $$ display block
+  - L335: removed blank line(s) inside $$ display block
+  - L329: removed blank line(s) inside $$ display block
+  - L323: removed blank line(s) inside $$ display block
+  - L293: removed blank line(s) inside $$ display block
+  - L256: removed blank line(s) inside $$ display block
+  - L243: removed blank line(s) inside $$ display block
+  - L226: removed blank line(s) inside $$ display block
+  - L218: removed blank line(s) inside $$ display block
+  - L208: removed blank line(s) inside $$ display block
+  - L198: removed blank line(s) inside $$ display block
+  - L190: removed blank line(s) inside $$ display block
+  - L173: removed blank line(s) inside $$ display block
+  - L160: removed blank line(s) inside $$ display block
+  - L152: removed blank line(s) inside $$ display block
+  - L144: removed blank line(s) inside $$ display block
+  - L136: removed blank line(s) inside $$ display block
+  - L128: removed blank line(s) inside $$ display block
+  - L120: removed blank line(s) inside $$ display block
+  - L110: removed blank line(s) inside $$ display block
+  - L100: removed blank line(s) inside $$ display block
+  - L90: removed blank line(s) inside $$ display block
+  - L80: removed blank line(s) inside $$ display block
+  - L72: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/CASSCFresp.md:
+  - 1 bare (sec:...) link target(s) -> (#sec:...)
+  - 3 sec: link text(s) humanized
+  - L26: removed blank line(s) inside $$ display block
+  - L12: removed blank line(s) inside $$ display block
+  - L14: normalized $$ delimiter whitespace
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/adld.md:
+  - 2 bare (sec:...) link target(s) -> (#sec:...)
+  - L30: removed blank line(s) inside $$ display block
+  - L22: removed blank line(s) inside $$ display block
+  - L24: normalized $$ delimiter whitespace
+  - L30: normalized $$ delimiter whitespace
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/asa.md:
+  - 3 sec: link text(s) humanized
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/asageneral.md:
+  - 1 sec: link text(s) humanized
+  - L5: dropped orphan option `:class: warning`
+  - L160: joined multi-line inline $...$ span
+  - L162: joined multi-line inline $...$ span
+  - L177: joined multi-line inline $...$ span
+  - L279: joined multi-line inline $...$ span
+  - L942: joined multi-line inline $...$ span
+  - L944: joined multi-line inline $...$ span
+  - L972: joined multi-line inline $...$ span
+  - L976: joined multi-line inline $...$ span
+  - L1172: joined multi-line inline $...$ span
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/deltascf.md:
+  - 1 sec: link text(s) humanized
+  - L460: removed blank line(s) inside $$ display block
+  - L140: removed blank line(s) inside $$ display block
+  - L114: removed blank line(s) inside $$ display block
+  - L95: removed blank line(s) inside $$ display block
+  - L87: removed blank line(s) inside $$ display block
+  - L75: removed blank line(s) inside $$ display block
+  - L452: normalized $$ delimiter whitespace
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/dleom.md:
+  - L34: removed blank line(s) inside $$ display block
+  - L25: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/dlpno-steom.md:
+  - 2 sec: link text(s) humanized
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/electric.md:
+  - 14 sec: link text(s) humanized
+  - L562: removed blank line(s) inside $$ display block
+  - L551: removed blank line(s) inside $$ display block
+  - L538: removed blank line(s) inside $$ display block
+  - L526: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/eom.md:
+  - 4 sec: link text(s) humanized
+  - L499: dropped orphan option `:class: footnotesize`
+  - L509: dropped orphan option `:class: footnotesize`
+  - L509: dropped orphan option `:header-rows: 1`
+  - flat-table -> 3-column pipe table (32 rows)
+  - L725: dropped orphan option `:class: footnotesize`
+  - L725: dropped orphan option `:header-rows: 1`
+  - flat-table -> 3-column pipe table (23 rows)
+  - L244: removed blank line(s) inside $$ display block
+  - L234: removed blank line(s) inside $$ display block
+  - L228: removed blank line(s) inside $$ display block
+  - L191: removed blank line(s) inside $$ display block
+  - L183: removed blank line(s) inside $$ display block
+  - L17: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/eomcore.md: no change
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/epr.md:
+  - 4 bare (sec:...) link target(s) -> (#sec:...)
+  - 18 sec: link text(s) humanized
+  - L212: dropped orphan option `:header-rows: 1`
+  - L212: dropped orphan option `:class: longtable`
+  - L212: dropped orphan option `:class: footnotesize`
+  - flat-table -> 3-column pipe table (11 rows)
+  - L617: dropped orphan option `:class: footnotesize`
+  - L632: dropped orphan option `:header-rows: 1`
+  - L632: dropped orphan option `:class: longtable`
+  - L632: dropped orphan option `:class: footnotesize`
+  - flat-table -> 3-column pipe table (8 rows)
+  - L1218: removed blank line(s) inside $$ display block
+  - L1187: removed blank line(s) inside $$ display block
+  - L1157: removed blank line(s) inside $$ display block
+  - L1150: removed blank line(s) inside $$ display block
+  - L1144: removed blank line(s) inside $$ display block
+  - L1137: removed blank line(s) inside $$ display block
+  - L1129: removed blank line(s) inside $$ display block
+  - L1122: removed blank line(s) inside $$ display block
+  - L1106: removed blank line(s) inside $$ display block
+  - L1095: removed blank line(s) inside $$ display block
+  - L1082: removed blank line(s) inside $$ display block
+  - L1070: removed blank line(s) inside $$ display block
+  - L1056: removed blank line(s) inside $$ display block
+  - L1045: removed blank line(s) inside $$ display block
+  - L1027: removed blank line(s) inside $$ display block
+  - L1018: removed blank line(s) inside $$ display block
+  - L1008: removed blank line(s) inside $$ display block
+  - L996: removed blank line(s) inside $$ display block
+  - L987: removed blank line(s) inside $$ display block
+  - L979: removed blank line(s) inside $$ display block
+  - L952: removed blank line(s) inside $$ display block
+  - L937: removed blank line(s) inside $$ display block
+  - L927: removed blank line(s) inside $$ display block
+  - L912: removed blank line(s) inside $$ display block
+  - L896: removed blank line(s) inside $$ display block
+  - L878: removed blank line(s) inside $$ display block
+  - L868: removed blank line(s) inside $$ display block
+  - L851: removed blank line(s) inside $$ display block
+  - L835: removed blank line(s) inside $$ display block
+  - L827: removed blank line(s) inside $$ display block
+  - L819: removed blank line(s) inside $$ display block
+  - L800: removed blank line(s) inside $$ display block
+  - L792: removed blank line(s) inside $$ display block
+  - L781: removed blank line(s) inside $$ display block
+  - L769: removed blank line(s) inside $$ display block
+  - L758: removed blank line(s) inside $$ display block
+  - L750: removed blank line(s) inside $$ display block
+  - L740: removed blank line(s) inside $$ display block
+  - L726: removed blank line(s) inside $$ display block
+  - L637: removed blank line(s) inside $$ display block
+  - L627: removed blank line(s) inside $$ display block
+  - L618: removed blank line(s) inside $$ display block
+  - L593: removed blank line(s) inside $$ display block
+  - L299: removed blank line(s) inside $$ display block
+  - L287: removed blank line(s) inside $$ display block
+  - L269: removed blank line(s) inside $$ display block
+  - L250: removed blank line(s) inside $$ display block
+  - L237: removed blank line(s) inside $$ display block
+  - L85: removed blank line(s) inside $$ display block
+  - L74: removed blank line(s) inside $$ display block
+  - L63: removed blank line(s) inside $$ display block
+  - L50: removed blank line(s) inside $$ display block
+  - L38: removed blank line(s) inside $$ display block
+  - L9: removed blank line(s) inside $$ display block
+  - L46: normalized $$ delimiter whitespace
+  - L57: normalized $$ delimiter whitespace
+  - L66: normalized $$ delimiter whitespace
+  - L75: normalized $$ delimiter whitespace
+  - L236: normalized $$ delimiter whitespace
+  - L253: normalized $$ delimiter whitespace
+  - L269: normalized $$ delimiter whitespace
+  - L279: normalized $$ delimiter whitespace
+  - L571: normalized $$ delimiter whitespace
+  - L594: normalized $$ delimiter whitespace
+  - L601: normalized $$ delimiter whitespace
+  - L609: normalized $$ delimiter whitespace
+  - L809: joined multi-line inline $...$ span
+  - L829: joined multi-line inline $...$ span
+  - L847: joined multi-line inline $...$ span
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/esd.md:
+  - 1 sec: link text(s) humanized
+  - L2055: dropped orphan option `:stub-columns: 1`
+  - list-table -> 3-column pipe table (9 rows)
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/excitedstates.md:
+  - L246: stripped trailing '-->' from fence closer
+  - L232: unwrapped commented fence opener
+  - 12 sec: link text(s) humanized
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/fod.md:
+  - 6 bare (sec:...) link target(s) -> (#sec:...)
+  - 8 sec: link text(s) humanized
+  - L120: dropped orphan option `:class: note`
+  - L231: dropped orphan option `:width: 70%`
+  - L326: dropped orphan option `:width: 50%`
+  - L107: removed blank line(s) inside $$ display block
+  - L31: removed blank line(s) inside $$ display block
+  - L22: removed blank line(s) inside $$ display block
+  - L103: normalized $$ delimiter whitespace
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/hfld.md:
+  - 1 sec: link text(s) humanized
+  - L241: dropped orphan option `:header-rows: 1`
+  - L241: dropped orphan option `:class: longtable`
+  - L241: dropped orphan option `:class: footnotesize`
+  - flat-table -> 3-column pipe table (10 rows)
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/ihfsmr.md:
+  - 1 sec: link text(s) humanized
+  - L171: removed blank line(s) inside $$ display block
+  - L162: removed blank line(s) inside $$ display block
+  - L151: removed blank line(s) inside $$ display block
+  - L142: removed blank line(s) inside $$ display block
+  - L99: removed blank line(s) inside $$ display block
+  - L90: removed blank line(s) inside $$ display block
+  - L69: removed blank line(s) inside $$ display block
+  - L62: removed blank line(s) inside $$ display block
+  - L51: removed blank line(s) inside $$ display block
+  - L36: removed blank line(s) inside $$ display block
+  - L26: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/index_spectroscopyproperties.md: no change
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/led.md:
+  - MyST roles/targets fixed
+  - 3 bare (sec:...) link target(s) -> (#sec:...)
+  - 13 sec: link text(s) humanized
+  - L588: dropped orphan option `:header-rows: 1`
+  - L588: dropped orphan option `:class: longtable`
+  - L588: dropped orphan option `:class: footnotesize`
+  - flat-table -> 8-column pipe table (3 rows)
+  - L944: dropped orphan option `:subcaptions: below`
+  - image path: ../../images/led-map.svg -> ../../../images/manual/led-map.svg
+  - image path: ../../images/covaled-map.svg -> ../../../images/manual/covaled-map.svg
+  - L1246: removed blank line(s) inside $$ display block
+  - L1237: removed blank line(s) inside $$ display block
+  - L1198: removed blank line(s) inside $$ display block
+  - L1192: removed blank line(s) inside $$ display block
+  - L576: removed blank line(s) inside $$ display block
+  - L564: removed blank line(s) inside $$ display block
+  - L556: removed blank line(s) inside $$ display block
+  - L540: removed blank line(s) inside $$ display block
+  - L535: removed blank line(s) inside $$ display block
+  - L522: removed blank line(s) inside $$ display block
+  - L514: removed blank line(s) inside $$ display block
+  - L504: removed blank line(s) inside $$ display block
+  - L492: removed blank line(s) inside $$ display block
+  - L56: removed blank line(s) inside $$ display block
+  - L1215: normalized $$ delimiter whitespace
+  - L1222: normalized $$ delimiter whitespace
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/magnx.md:
+  - 2 sec: link text(s) humanized
+  - L259: removed blank line(s) inside $$ display block
+  - L249: removed blank line(s) inside $$ display block
+  - L236: removed blank line(s) inside $$ display block
+  - L224: removed blank line(s) inside $$ display block
+  - L216: removed blank line(s) inside $$ display block
+  - L193: removed blank line(s) inside $$ display block
+  - L168: removed blank line(s) inside $$ display block
+  - L147: removed blank line(s) inside $$ display block
+  - L139: removed blank line(s) inside $$ display block
+  - L128: removed blank line(s) inside $$ display block
+  - L120: removed blank line(s) inside $$ display block
+  - L53: removed blank line(s) inside $$ display block
+  - L47: removed blank line(s) inside $$ display block
+  - L41: removed blank line(s) inside $$ display block
+  - L12: removed blank line(s) inside $$ display block
+  - L33: joined multi-line inline $...$ span
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/magrelax.md:
+  - 1 sec: link text(s) humanized
+  - L88: removed blank line(s) inside $$ display block
+  - L77: removed blank line(s) inside $$ display block
+  - L49: removed blank line(s) inside $$ display block
+  - L38: removed blank line(s) inside $$ display block
+  - L14: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/mcd.md:
+  - L96: removed blank line(s) inside $$ display block
+  - L71: removed blank line(s) inside $$ display block
+  - L50: removed blank line(s) inside $$ display block
+  - L32: removed blank line(s) inside $$ display block
+  - L16: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/mcrpa.md:
+  - 16 bare (sec:...) link target(s) -> (#sec:...)
+  - 4 sec: link text(s) humanized
+  - L158: removed blank line(s) inside $$ display block
+  - L139: removed blank line(s) inside $$ display block
+  - L122: removed blank line(s) inside $$ display block
+  - L106: removed blank line(s) inside $$ display block
+  - L71: removed blank line(s) inside $$ display block
+  - L36: removed blank line(s) inside $$ display block
+  - L24: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/moessbauer.md:
+  - 2 sec: link text(s) humanized
+  - L148: dropped orphan option `:header-rows: 1`
+  - L148: dropped orphan option `:class: longtable`
+  - L148: dropped orphan option `:class: footnotesize`
+  - flat-table -> 4-column pipe table (9 rows)
+  - L72: removed blank line(s) inside $$ display block
+  - L60: removed blank line(s) inside $$ display block
+  - L50: removed blank line(s) inside $$ display block
+  - L26: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/nbo.md:
+  - 2 sec: link text(s) humanized
+  - L421: dropped orphan option `:subcaptions: below`
+  - L421: dropped orphan option `:class-grid: outline`
+  - image path: ../../images/732.* -> ../../../images/manual/732.svg
+  - image path: ../../images/733.* -> ../../../images/manual/733.svg
+  - image path: ../../images/734.* -> ../../../images/manual/734.svg
+  - image path: ../../images/735.* -> ../../../images/manual/735.svg
+  - image path: ../../images/736.* -> ../../../images/manual/736.svg
+  - image path: ../../images/737.* -> ../../../images/manual/737.svg
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/nmr.md:
+  - 5 bare (sec:...) link target(s) -> (#sec:...)
+  - 9 sec: link text(s) humanized
+  - L773: removed blank line(s) inside $$ display block
+  - L726: removed blank line(s) inside $$ display block
+  - L712: removed blank line(s) inside $$ display block
+  - L700: removed blank line(s) inside $$ display block
+  - L691: removed blank line(s) inside $$ display block
+  - L677: removed blank line(s) inside $$ display block
+  - L668: removed blank line(s) inside $$ display block
+  - L583: removed blank line(s) inside $$ display block
+  - L432: removed blank line(s) inside $$ display block
+  - L239: removed blank line(s) inside $$ display block
+  - L231: removed blank line(s) inside $$ display block
+  - L223: removed blank line(s) inside $$ display block
+  - L215: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/nocv.md:
+  - 2 bare (sec:...) link target(s) -> (#sec:...)
+  - 1 sec: link text(s) humanized
+  - L544: dropped orphan option `:header-rows: 1`
+  - flat-table -> 3-column pipe table (11 rows)
+  - L60: removed blank line(s) inside $$ display block
+  - L32: removed blank line(s) inside $$ display block
+  - L17: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/ops.md:
+  - L225: removed blank line(s) inside $$ display block
+  - L124: removed blank line(s) inside $$ display block
+  - L116: removed blank line(s) inside $$ display block
+  - L110: removed blank line(s) inside $$ display block
+  - L55: removed blank line(s) inside $$ display block
+  - L47: removed blank line(s) inside $$ display block
+  - L34: removed blank line(s) inside $$ display block
+  - L24: removed blank line(s) inside $$ display block
+  - L12: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/poly_aniso.md:
+  - image path: ../../images/singleaniso1.* -> ../../../images/manual/singleaniso1.png
+  - L582: removed blank line(s) inside $$ display block
+  - L567: removed blank line(s) inside $$ display block
+  - L471: removed blank line(s) inside $$ display block
+  - L435: removed blank line(s) inside $$ display block
+  - L413: removed blank line(s) inside $$ display block
+  - L385: removed blank line(s) inside $$ display block
+  - L68: removed blank line(s) inside $$ display block
+  - L383: normalized $$ delimiter whitespace
+  - L409: normalized $$ delimiter whitespace
+  - L429: normalized $$ delimiter whitespace
+  - L557: normalized $$ delimiter whitespace
+  - L570: normalized $$ delimiter whitespace
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/population.md:
+  - 21 bare (sec:...) link target(s) -> (#sec:...)
+  - L1266: dropped orphan option `:header-rows: 1`
+  - L1266: dropped orphan option `:class: longtable`
+  - L1266: dropped orphan option `:class: footnotesize`
+  - flat-table -> 3-column pipe table (11 rows)
+  - L1038: removed blank line(s) inside $$ display block
+  - L1029: removed blank line(s) inside $$ display block
+  - L1023: removed blank line(s) inside $$ display block
+  - L1017: removed blank line(s) inside $$ display block
+  - L1009: removed blank line(s) inside $$ display block
+  - L999: removed blank line(s) inside $$ display block
+  - L988: removed blank line(s) inside $$ display block
+  - L977: removed blank line(s) inside $$ display block
+  - L967: removed blank line(s) inside $$ display block
+  - L959: removed blank line(s) inside $$ display block
+  - L951: removed blank line(s) inside $$ display block
+  - L942: removed blank line(s) inside $$ display block
+  - L932: removed blank line(s) inside $$ display block
+  - L924: removed blank line(s) inside $$ display block
+  - L915: removed blank line(s) inside $$ display block
+  - L909: removed blank line(s) inside $$ display block
+  - L903: removed blank line(s) inside $$ display block
+  - L893: removed blank line(s) inside $$ display block
+  - L887: removed blank line(s) inside $$ display block
+  - L879: removed blank line(s) inside $$ display block
+  - L873: removed blank line(s) inside $$ display block
+  - L865: removed blank line(s) inside $$ display block
+  - L851: removed blank line(s) inside $$ display block
+  - L845: removed blank line(s) inside $$ display block
+  - L837: removed blank line(s) inside $$ display block
+  - L831: removed blank line(s) inside $$ display block
+  - L823: removed blank line(s) inside $$ display block
+  - L815: removed blank line(s) inside $$ display block
+  - L809: removed blank line(s) inside $$ display block
+  - L801: removed blank line(s) inside $$ display block
+  - L795: removed blank line(s) inside $$ display block
+  - L789: removed blank line(s) inside $$ display block
+  - L781: removed blank line(s) inside $$ display block
+  - L773: removed blank line(s) inside $$ display block
+  - L759: removed blank line(s) inside $$ display block
+  - L751: removed blank line(s) inside $$ display block
+  - L741: removed blank line(s) inside $$ display block
+  - L735: removed blank line(s) inside $$ display block
+  - L499: removed blank line(s) inside $$ display block
+  - L484: removed blank line(s) inside $$ display block
+  - L478: removed blank line(s) inside $$ display block
+  - L469: removed blank line(s) inside $$ display block
+  - L461: removed blank line(s) inside $$ display block
+  - L395: removed blank line(s) inside $$ display block
+  - L384: removed blank line(s) inside $$ display block
+  - L375: removed blank line(s) inside $$ display block
+  - L306: removed blank line(s) inside $$ display block
+  - L298: removed blank line(s) inside $$ display block
+  - L288: removed blank line(s) inside $$ display block
+  - L275: removed blank line(s) inside $$ display block
+  - L186: removed blank line(s) inside $$ display block
+  - L177: removed blank line(s) inside $$ display block
+  - L169: removed blank line(s) inside $$ display block
+  - L107: removed blank line(s) inside $$ display block
+  - L97: removed blank line(s) inside $$ display block
+  - L87: removed blank line(s) inside $$ display block
+  - L76: removed blank line(s) inside $$ display block
+  - L67: removed blank line(s) inside $$ display block
+  - L57: removed blank line(s) inside $$ display block
+  - L49: removed blank line(s) inside $$ display block
+  - L40: removed blank line(s) inside $$ display block
+  - L32: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/postHF_magprop.md:
+  - 4 sec: link text(s) humanized
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/qdpt_magnetic_properties.md:
+  - 7 sec: link text(s) humanized
+  - L231: removed blank line(s) inside $$ display block
+  - L222: removed blank line(s) inside $$ display block
+  - L166: removed blank line(s) inside $$ display block
+  - L151: removed blank line(s) inside $$ display block
+  - L135: removed blank line(s) inside $$ display block
+  - L116: removed blank line(s) inside $$ display block
+  - L104: removed blank line(s) inside $$ display block
+  - L79: removed blank line(s) inside $$ display block
+  - L59: removed blank line(s) inside $$ display block
+  - L42: removed blank line(s) inside $$ display block
+  - L22: removed blank line(s) inside $$ display block
+  - L66: joined multi-line inline $...$ span
+  - L83: joined multi-line inline $...$ span
+  - L133: joined multi-line inline $...$ span
+  - L376: joined multi-line inline $...$ span
+  - L386: joined multi-line inline $...$ span
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/rocis.md:
+  - 3 sec: link text(s) humanized
+  - L39: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/single_aniso.md:
+  - 4 sec: link text(s) humanized
+  - image path: ../../images/singleaniso1.* -> ../../../images/manual/singleaniso1.png
+  - escaped ORCA $var in double quotes
+  - L827: removed blank line(s) inside $$ display block
+  - L812: removed blank line(s) inside $$ display block
+  - L305: removed blank line(s) inside $$ display block
+  - L810: normalized $$ delimiter whitespace
+  - added blank line(s) around $$ display block(s)
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/spinorbit.md:
+  - L332: dropped orphan option `:header-rows: 1`
+  - L332: dropped orphan option `:class: footnotesize`
+  - flat-table -> 4-column pipe table (11 rows)
+  - L177: removed blank line(s) inside $$ display block
+  - L150: removed blank line(s) inside $$ display block
+  - L143: removed blank line(s) inside $$ display block
+  - L128: removed blank line(s) inside $$ display block
+  - L112: removed blank line(s) inside $$ display block
+  - L104: removed blank line(s) inside $$ display block
+  - L96: removed blank line(s) inside $$ display block
+  - L87: removed blank line(s) inside $$ display block
+  - L120: normalized $$ delimiter whitespace
+  - L133: normalized $$ delimiter whitespace
+  - L138: normalized $$ delimiter whitespace
+  - L143: joined multi-line inline $...$ span
+  - L152: joined multi-line inline $...$ span
+  - L156: joined multi-line inline $...$ span
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/steom.md:
+  - 3 sec: link text(s) humanized
+  - L296: removed blank line(s) inside $$ display block
+  - L287: removed blank line(s) inside $$ display block
+  - L94: removed blank line(s) inside $$ display block
+  - L53: removed blank line(s) inside $$ display block
+  - L42: removed blank line(s) inside $$ display block
+  - L35: removed blank line(s) inside $$ display block
+  - L28: removed blank line(s) inside $$ display block
+  - L19: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/tddft.md:
+  - L247: stripped trailing '-->' from fence closer
+  - L406: stripped trailing '-->' from fence closer
+  - L446: stripped trailing '-->' from fence closer
+  - L507: stripped trailing '-->' from fence closer
+  - L546: stripped trailing '-->' from fence closer
+  - L618: stripped trailing '-->' from fence closer
+  - L999: stripped trailing '-->' from fence closer
+  - L1159: stripped trailing '-->' from fence closer
+  - L1224: stripped trailing '-->' from fence closer
+  - L1560: stripped trailing '-->' from fence closer
+  - L1868: stripped trailing '-->' from fence closer
+  - L2115: stripped trailing '-->' from fence closer
+  - L2229: stripped trailing '-->' from fence closer
+  - L2420: stripped trailing '-->' from fence closer
+  - L241: unwrapped commented fence opener
+  - L404: unwrapped commented fence opener
+  - L440: unwrapped commented fence opener
+  - L502: unwrapped commented fence opener
+  - L541: unwrapped commented fence opener
+  - L613: unwrapped commented fence opener
+  - L993: unwrapped commented fence opener
+  - L1058: unwrapped commented fence opener
+  - L1220: unwrapped commented fence opener
+  - L1548: unwrapped commented fence opener
+  - L1841: unwrapped commented fence opener
+  - L2090: unwrapped commented fence opener
+  - L2201: unwrapped commented fence opener
+  - L2394: unwrapped commented fence opener
+  - 12 sec: link text(s) humanized
+  - L2879: dropped orphan option `:class: footnotesize`
+  - triple-backtick inline -> single: '```DOTRANS ALL```'
+  - L2562: removed blank line(s) inside $$ display block
+  - L2535: removed blank line(s) inside $$ display block
+  - L2523: removed blank line(s) inside $$ display block
+  - L2511: removed blank line(s) inside $$ display block
+  - L908: removed blank line(s) inside $$ display block
+  - L890: removed blank line(s) inside $$ display block
+  - L884: removed blank line(s) inside $$ display block
+  - L875: removed blank line(s) inside $$ display block
+  - L869: removed blank line(s) inside $$ display block
+  - L855: removed blank line(s) inside $$ display block
+  - L644: removed blank line(s) inside $$ display block
+  - L633: removed blank line(s) inside $$ display block
+  - L354: removed blank line(s) inside $$ display block
+  - L320: removed blank line(s) inside $$ display block
+  - L309: removed blank line(s) inside $$ display block
+  - L300: removed blank line(s) inside $$ display block
+  - L279: removed blank line(s) inside $$ display block
+  - L2536: joined multi-line inline $...$ span
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/vibrations.md:
+  - 8 sec: link text(s) humanized
+  - L329: removed blank line(s) inside $$ display block
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/vpt2.md:
+  - 1 sec: link text(s) humanized
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/spectroscopyproperties/xes.md:
+  - 10 sec: link text(s) humanized
+  - L408: removed blank line(s) inside $$ display block
+  - L400: removed blank line(s) inside $$ display block
+  - L389: removed blank line(s) inside $$ display block
+  - L383: removed blank line(s) inside $$ display block
+  - L377: removed blank line(s) inside $$ display block
+  - L371: removed blank line(s) inside $$ display block
+  - L365: removed blank line(s) inside $$ display block
+  - L359: removed blank line(s) inside $$ display block
+  - L329: removed blank line(s) inside $$ display block
+  - L283: removed blank line(s) inside $$ display block
+  - L268: removed blank line(s) inside $$ display block
+  - L248: removed blank line(s) inside $$ display block
+  - L240: removed blank line(s) inside $$ display block
+  - L230: removed blank line(s) inside $$ display block
+  - L220: removed blank line(s) inside $$ display block
+  - L212: removed blank line(s) inside $$ display block
+  - L189: removed blank line(s) inside $$ display block
+  - L174: removed blank line(s) inside $$ display block
+  - L164: removed blank line(s) inside $$ display block
+  - L155: removed blank line(s) inside $$ display block
+  - L147: removed blank line(s) inside $$ display block
+  - L138: removed blank line(s) inside $$ display block
+  - L130: removed blank line(s) inside $$ display block
+  - L119: removed blank line(s) inside $$ display block
+  - L109: removed blank line(s) inside $$ display block
+  - L99: removed blank line(s) inside $$ display block
+  - L89: removed blank line(s) inside $$ display block
+  - L81: removed blank line(s) inside $$ display block
+  - updated

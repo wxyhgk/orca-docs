@@ -1,0 +1,535 @@
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/essentialelements/basics.md:
+  - L42: dropped `!!! note "latex"` wrapper
+  - L46: dropped `!!! note "\\Y{...}"` column-width marker
+  - L49: dropped orphan option `:class: footnotesize`
+  - L49: dropped orphan option `:header-rows: 1`
+  - list-table -> 2-column pipe table (20 rows)
+  - L98: dropped `!!! note "latex"` wrapper
+  - L101: dropped `!!! note "latex"` wrapper
+  - L105: dropped `!!! note "\\Y{...}"` column-width marker
+  - L108: dropped orphan option `:class: footnotesize`
+  - L108: dropped orphan option `:header-rows: 1`
+  - list-table -> 3-column pipe table (12 rows)
+  - L151: dropped `!!! note "latex"` wrapper
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/essentialelements/basisset.md:
+  - L135: dropped orphan option `:class: note`
+  - L143: dropped `!!! note "latex"` wrapper
+  - L147: dropped `!!! note "\\Y{...}"` column-width marker
+  - L150: dropped orphan option `:header-rows: 1`
+  - L150: dropped orphan option `:class: longtable`
+  - L150: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (67 rows)
+  - L424: dropped `!!! note "latex"` wrapper
+  - L437: dropped `!!! note "latex"` wrapper
+  - L441: dropped `!!! note "\\Y{...}"` column-width marker
+  - L444: dropped orphan option `:header-rows: 1`
+  - L444: dropped orphan option `:class: longtable`
+  - L444: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (24 rows)
+  - L541: dropped `!!! note "latex"` wrapper
+  - L551: dropped `!!! note "latex"` wrapper
+  - L555: dropped `!!! note "\\Y{...}"` column-width marker
+  - L558: dropped orphan option `:header-rows: 1`
+  - L558: dropped orphan option `:class: longtable`
+  - L558: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (22 rows)
+  - L647: dropped `!!! note "latex"` wrapper
+  - L658: dropped `!!! note "latex"` wrapper
+  - L662: dropped `!!! note "\\Y{...}"` column-width marker
+  - L665: dropped orphan option `:header-rows: 1`
+  - L665: dropped orphan option `:class: longtable`
+  - L665: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (13 rows)
+  - L721: dropped `!!! note "latex"` wrapper
+  - L730: dropped `!!! note "latex"` wrapper
+  - L734: dropped `!!! note "\\Y{...}"` column-width marker
+  - L737: dropped orphan option `:header-rows: 1`
+  - L737: dropped orphan option `:class: longtable`
+  - L737: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (62 rows)
+  - L977: dropped `!!! note "latex"` wrapper
+  - L986: dropped orphan option `:class: note`
+  - L992: dropped `!!! note "latex"` wrapper
+  - L996: dropped `!!! note "\\Y{...}"` column-width marker
+  - L999: dropped orphan option `:header-rows: 1`
+  - L999: dropped orphan option `:class: longtable`
+  - L999: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (25 rows)
+  - L1088: dropped `!!! note "latex"` wrapper
+  - L1098: dropped `!!! note "latex"` wrapper
+  - L1102: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1105: dropped orphan option `:header-rows: 1`
+  - L1105: dropped orphan option `:class: longtable`
+  - L1105: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (4 rows)
+  - L1127: dropped `!!! note "latex"` wrapper
+  - L1136: dropped `!!! note "latex"` wrapper
+  - L1140: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1143: dropped orphan option `:header-rows: 1`
+  - L1143: dropped orphan option `:class: longtable`
+  - L1143: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (5 rows)
+  - L1169: dropped `!!! note "latex"` wrapper
+  - L1181: dropped `!!! note "latex"` wrapper
+  - L1185: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1188: dropped orphan option `:header-rows: 1`
+  - L1188: dropped orphan option `:class: longtable`
+  - L1188: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (2 rows)
+  - L1202: dropped `!!! note "latex"` wrapper
+  - L1211: dropped `!!! note "latex"` wrapper
+  - L1215: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1218: dropped orphan option `:header-rows: 1`
+  - L1218: dropped orphan option `:class: longtable`
+  - L1218: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (6 rows)
+  - L1247: dropped `!!! note "latex"` wrapper
+  - L1261: dropped `!!! note "latex"` wrapper
+  - L1265: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1268: dropped orphan option `:header-rows: 1`
+  - L1268: dropped orphan option `:class: longtable`
+  - L1268: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (85 rows)
+  - L1599: dropped `!!! note "latex"` wrapper
+  - L1609: dropped `!!! note "latex"` wrapper
+  - L1613: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1616: dropped orphan option `:header-rows: 1`
+  - L1616: dropped orphan option `:class: longtable`
+  - L1616: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (12 rows)
+  - L1665: dropped `!!! note "latex"` wrapper
+  - L1682: dropped `!!! note "latex"` wrapper
+  - L1686: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1689: dropped orphan option `:header-rows: 1`
+  - L1689: dropped orphan option `:class: longtable`
+  - L1689: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (15 rows)
+  - L1755: dropped `!!! note "latex"` wrapper
+  - L1856: dropped `!!! note "latex"` wrapper
+  - L1860: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1863: dropped orphan option `:header-rows: 1`
+  - L1863: dropped orphan option `:class: longtable`
+  - L1863: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (24 rows)
+  - L1965: dropped `!!! note "latex"` wrapper
+  - L1989: dropped `!!! note "latex"` wrapper
+  - L1993: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1996: dropped orphan option `:header-rows: 1`
+  - L1996: dropped orphan option `:class: longtable`
+  - L1996: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (26 rows)
+  - L2103: dropped `!!! note "latex"` wrapper
+  - L2111: dropped `!!! note "latex"` wrapper
+  - L2115: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2118: dropped orphan option `:header-rows: 1`
+  - L2118: dropped orphan option `:class: longtable`
+  - L2118: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (26 rows)
+  - L2225: dropped `!!! note "latex"` wrapper
+  - L2238: dropped `!!! note "latex"` wrapper
+  - L2242: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2245: dropped orphan option `:header-rows: 1`
+  - L2245: dropped orphan option `:class: longtable`
+  - L2245: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (7 rows)
+  - L2278: dropped `!!! note "latex"` wrapper
+  - L2289: dropped `!!! note "latex"` wrapper
+  - L2293: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2296: dropped orphan option `:header-rows: 1`
+  - L2296: dropped orphan option `:class: longtable`
+  - L2296: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (5 rows)
+  - L2322: dropped `!!! note "latex"` wrapper
+  - L2339: dropped `!!! note "latex"` wrapper
+  - L2343: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2346: dropped orphan option `:header-rows: 1`
+  - L2346: dropped orphan option `:class: longtable`
+  - L2346: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (23 rows)
+  - L2437: dropped `!!! note "latex"` wrapper
+  - L2448: dropped `!!! note "latex"` wrapper
+  - L2452: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2455: dropped orphan option `:header-rows: 1`
+  - L2455: dropped orphan option `:class: longtable`
+  - L2455: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (4 rows)
+  - L2477: dropped `!!! note "latex"` wrapper
+  - L2486: dropped `!!! note "latex"` wrapper
+  - L2490: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2493: dropped orphan option `:header-rows: 1`
+  - L2493: dropped orphan option `:class: longtable`
+  - L2493: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (23 rows)
+  - L2591: dropped `!!! note "latex"` wrapper
+  - L2600: dropped `!!! note "latex"` wrapper
+  - L2604: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2607: dropped orphan option `:header-rows: 1`
+  - L2607: dropped orphan option `:class: longtable`
+  - L2607: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (5 rows)
+  - L2633: dropped `!!! note "latex"` wrapper
+  - L2662: dropped `!!! note "latex"` wrapper
+  - L2666: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2669: dropped orphan option `:header-rows: 1`
+  - L2669: dropped orphan option `:class: longtable`
+  - L2669: dropped orphan option `:class: footnotesize`
+  - list-table -> 3-column pipe table (6 rows)
+  - L2703: dropped `!!! note "latex"` wrapper
+  - L2716: dropped `!!! note "latex"` wrapper
+  - L2720: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2723: dropped orphan option `:header-rows: 1`
+  - L2723: dropped orphan option `:class: longtable`
+  - L2723: dropped orphan option `:class: footnotesize`
+  - list-table -> 3-column pipe table (13 rows)
+  - L2765: dropped `!!! note "latex"` wrapper
+  - L2773: dropped `!!! note "latex"` wrapper
+  - L2777: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2780: dropped orphan option `:header-rows: 1`
+  - L2780: dropped orphan option `:class: longtable`
+  - L2780: dropped orphan option `:class: footnotesize`
+  - list-table -> 3-column pipe table (48 rows)
+  - L2895: dropped `!!! note "latex"` wrapper
+  - L2903: dropped `!!! note "latex"` wrapper
+  - L2907: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2910: dropped orphan option `:header-rows: 1`
+  - L2910: dropped orphan option `:class: longtable`
+  - L2910: dropped orphan option `:class: footnotesize`
+  - list-table -> 3-column pipe table (21 rows)
+  - L2965: dropped `!!! note "latex"` wrapper
+  - L3045: dropped `!!! note "latex"` wrapper
+  - L3049: dropped `!!! note "\\Y{...}"` column-width marker
+  - L3052: dropped orphan option `:header-rows: 1`
+  - L3052: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (81 rows)
+  - L3257: dropped `!!! note "latex"` wrapper
+  - L3879: dropped `!!! note "latex"` wrapper
+  - L3884: dropped orphan option `:class: footnotesize`
+  - L3917: dropped `!!! note "latex"` wrapper
+  - L3923: dropped `!!! note "latex"` wrapper
+  - L3928: dropped orphan option `:class: footnotesize`
+  - L3950: dropped `!!! note "latex"` wrapper
+  - L3953: dropped `!!! note "latex"` wrapper
+  - L3957: dropped `!!! note "\\Y{...}"` column-width marker
+  - L3960: dropped orphan option `:header-rows: 1`
+  - L3960: dropped orphan option `:class: longtable`
+  - L3960: dropped orphan option `:class: footnotesize`
+  - list-table -> 3-column pipe table (81 rows)
+  - L4193: dropped `!!! note "latex"` wrapper
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/essentialelements/coordinates.md:
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/essentialelements/index_essentialelements.md: no change
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/essentialelements/initialguess.md:
+  - L281: dropped `!!! note "latex"` wrapper
+  - L286: dropped orphan option `:header-rows: 1`
+  - L286: dropped orphan option `:class: footnotesize`
+  - list-table -> 2-column pipe table (12 rows)
+  - L320: dropped `!!! note "latex"` wrapper
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/essentialelements/input.md:
+  - L310: dropped orphan option `:header-rows: 1`
+  - L310: dropped orphan option `:class: longtable`
+  - list-table -> 2-column pipe table (54 rows)
+  - L519: dropped orphan option `:header-rows: 1`
+  - L519: dropped orphan option `:class: longtable`
+  - list-table -> 3-column pipe table (8 rows)
+  - L579: dropped orphan option `:header-rows: 1`
+  - L579: dropped orphan option `:class: longtable`
+  - list-table -> 3-column pipe table (25 rows)
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/essentialelements/output.md: no change
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/essentialelements/parallel.md:
+  - list-table -> 26 bullet(s)
+  - list-table -> 4 bullet(s)
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/en/manual/contents/essentialelements/scf.md:
+  - MyST target (compoundConvergenceThresholds)= -> <a id>
+  - MyST target (compoundAdditionalConvergenceThresholds)= -> <a id>
+  - L121: dropped orphan option `:header-rows: 1`
+  - list-table -> 2-column pipe table (83 rows)
+  - L299: dropped orphan option `:header-rows: 1`
+  - list-table -> 3-column pipe table (70 rows)
+  - L1062: dropped `!!! note "latex"` wrapper
+  - L1067: dropped orphan option `:header-rows: 1`
+  - L1067: dropped orphan option `:class: footnotesize`
+  - list-table -> 2-column pipe table (24 rows)
+  - L1119: dropped `!!! note "latex"` wrapper
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/essentialelements/basics.md:
+  - L42: dropped `!!! note "latex"` wrapper
+  - L46: dropped `!!! note "\\Y{...}"` column-width marker
+  - L49: dropped orphan option `:class: footnotesize`
+  - L49: dropped orphan option `:header-rows: 1`
+  - list-table -> 2-column pipe table (20 rows)
+  - L96: dropped `!!! note "latex"` wrapper
+  - L99: dropped `!!! note "latex"` wrapper
+  - L103: dropped `!!! note "\\Y{...}"` column-width marker
+  - L106: dropped orphan option `:class: footnotesize`
+  - L106: dropped orphan option `:header-rows: 1`
+  - list-table -> 3-column pipe table (12 rows)
+  - L149: dropped `!!! note "latex"` wrapper
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/essentialelements/basisset.md:
+  - L17: dropped orphan option `:class: note`
+  - L27: dropped orphan option `:class: note`
+  - L73: :class: tip -> `!!! tip`
+  - L79: :class: warning -> `!!! warning`
+  - L93: dropped orphan option `:class: note`
+  - L101: dropped `!!! note "latex"` wrapper
+  - L105: dropped `!!! note "\\Y{...}"` column-width marker
+  - L108: dropped orphan option `:header-rows: 1`
+  - L108: dropped orphan option `:class: longtable`
+  - L108: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (67 rows)
+  - L382: dropped `!!! note "latex"` wrapper
+  - L390: dropped orphan option `:class: note`
+  - L394: dropped `!!! note "latex"` wrapper
+  - L398: dropped `!!! note "\\Y{...}"` column-width marker
+  - L401: dropped orphan option `:header-rows: 1`
+  - L401: dropped orphan option `:class: longtable`
+  - L401: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (24 rows)
+  - L498: dropped `!!! note "latex"` wrapper
+  - L506: dropped `!!! note "latex"` wrapper
+  - L510: dropped `!!! note "\\Y{...}"` column-width marker
+  - L513: dropped orphan option `:header-rows: 1`
+  - L513: dropped orphan option `:class: longtable`
+  - L513: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (22 rows)
+  - L602: dropped `!!! note "latex"` wrapper
+  - L609: dropped `!!! note "latex"` wrapper
+  - L613: dropped `!!! note "\\Y{...}"` column-width marker
+  - L616: dropped orphan option `:header-rows: 1`
+  - L616: dropped orphan option `:class: longtable`
+  - L616: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (13 rows)
+  - L672: dropped `!!! note "latex"` wrapper
+  - L681: dropped `!!! note "latex"` wrapper
+  - L685: dropped `!!! note "\\Y{...}"` column-width marker
+  - L688: dropped orphan option `:header-rows: 1`
+  - L688: dropped orphan option `:class: longtable`
+  - L688: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (62 rows)
+  - L928: dropped `!!! note "latex"` wrapper
+  - L937: dropped orphan option `:class: note`
+  - L943: dropped `!!! note "latex"` wrapper
+  - L947: dropped `!!! note "\\Y{...}"` column-width marker
+  - L950: dropped orphan option `:header-rows: 1`
+  - L950: dropped orphan option `:class: longtable`
+  - L950: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (25 rows)
+  - L1039: dropped `!!! note "latex"` wrapper
+  - L1047: dropped `!!! note "latex"` wrapper
+  - L1051: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1054: dropped orphan option `:header-rows: 1`
+  - L1054: dropped orphan option `:class: longtable`
+  - L1054: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (4 rows)
+  - L1076: dropped `!!! note "latex"` wrapper
+  - L1084: dropped `!!! note "latex"` wrapper
+  - L1088: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1091: dropped orphan option `:header-rows: 1`
+  - L1091: dropped orphan option `:class: longtable`
+  - L1091: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (5 rows)
+  - L1117: dropped `!!! note "latex"` wrapper
+  - L1125: dropped `!!! note "latex"` wrapper
+  - L1129: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1132: dropped orphan option `:header-rows: 1`
+  - L1132: dropped orphan option `:class: longtable`
+  - L1132: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (2 rows)
+  - L1146: dropped `!!! note "latex"` wrapper
+  - L1155: dropped `!!! note "latex"` wrapper
+  - L1159: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1162: dropped orphan option `:header-rows: 1`
+  - L1162: dropped orphan option `:class: longtable`
+  - L1162: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (6 rows)
+  - L1191: dropped `!!! note "latex"` wrapper
+  - L1199: dropped `!!! note "latex"` wrapper
+  - L1203: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1206: dropped orphan option `:header-rows: 1`
+  - L1206: dropped orphan option `:class: longtable`
+  - L1206: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (85 rows)
+  - L1537: dropped `!!! note "latex"` wrapper
+  - L1547: dropped `!!! note "latex"` wrapper
+  - L1551: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1554: dropped orphan option `:header-rows: 1`
+  - L1554: dropped orphan option `:class: longtable`
+  - L1554: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (12 rows)
+  - L1603: dropped `!!! note "latex"` wrapper
+  - L1611: dropped orphan option `:class: note`
+  - L1616: dropped `!!! note "latex"` wrapper
+  - L1620: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1623: dropped orphan option `:header-rows: 1`
+  - L1623: dropped orphan option `:class: longtable`
+  - L1623: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (15 rows)
+  - L1689: dropped `!!! note "latex"` wrapper
+  - L1708: :class: tip -> `!!! tip`
+  - L1779: :class: warning -> `!!! warning`
+  - L1788: dropped `!!! note "latex"` wrapper
+  - L1792: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1795: dropped orphan option `:header-rows: 1`
+  - L1795: dropped orphan option `:class: longtable`
+  - L1795: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (24 rows)
+  - L1897: dropped `!!! note "latex"` wrapper
+  - L1911: dropped `!!! note "latex"` wrapper
+  - L1915: dropped `!!! note "\\Y{...}"` column-width marker
+  - L1918: dropped orphan option `:header-rows: 1`
+  - L1918: dropped orphan option `:class: longtable`
+  - L1918: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (26 rows)
+  - L2025: dropped `!!! note "latex"` wrapper
+  - L2033: dropped `!!! note "latex"` wrapper
+  - L2037: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2040: dropped orphan option `:header-rows: 1`
+  - L2040: dropped orphan option `:class: longtable`
+  - L2040: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (26 rows)
+  - L2147: dropped `!!! note "latex"` wrapper
+  - L2155: :class: tip -> `!!! tip`
+  - L2159: dropped `!!! note "latex"` wrapper
+  - L2163: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2166: dropped orphan option `:header-rows: 1`
+  - L2166: dropped orphan option `:class: longtable`
+  - L2166: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (7 rows)
+  - L2199: dropped `!!! note "latex"` wrapper
+  - L2202: dropped orphan option `:class: note`
+  - L2211: dropped `!!! note "latex"` wrapper
+  - L2215: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2218: dropped orphan option `:header-rows: 1`
+  - L2218: dropped orphan option `:class: longtable`
+  - L2218: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (5 rows)
+  - L2244: dropped `!!! note "latex"` wrapper
+  - L2247: dropped orphan option `:class: note`
+  - L2256: :class: tip -> `!!! tip`
+  - L2260: dropped `!!! note "latex"` wrapper
+  - L2264: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2267: dropped orphan option `:header-rows: 1`
+  - L2267: dropped orphan option `:class: longtable`
+  - L2267: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (23 rows)
+  - L2358: dropped `!!! note "latex"` wrapper
+  - L2366: dropped `!!! note "latex"` wrapper
+  - L2370: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2373: dropped orphan option `:header-rows: 1`
+  - L2373: dropped orphan option `:class: longtable`
+  - L2373: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (4 rows)
+  - L2395: dropped `!!! note "latex"` wrapper
+  - L2403: dropped `!!! note "latex"` wrapper
+  - L2407: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2410: dropped orphan option `:header-rows: 1`
+  - L2410: dropped orphan option `:class: longtable`
+  - L2410: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (23 rows)
+  - L2508: dropped `!!! note "latex"` wrapper
+  - L2515: dropped `!!! note "latex"` wrapper
+  - L2519: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2522: dropped orphan option `:header-rows: 1`
+  - L2522: dropped orphan option `:class: longtable`
+  - L2522: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (5 rows)
+  - L2548: dropped `!!! note "latex"` wrapper
+  - L2556: dropped orphan option `:class: note`
+  - L2566: dropped `!!! note "latex"` wrapper
+  - L2570: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2573: dropped orphan option `:header-rows: 1`
+  - L2573: dropped orphan option `:class: longtable`
+  - L2573: dropped orphan option `:class: footnotesize`
+  - list-table -> 3-column pipe table (6 rows)
+  - L2606: dropped `!!! note "latex"` wrapper
+  - L2619: dropped `!!! note "latex"` wrapper
+  - L2623: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2626: dropped orphan option `:header-rows: 1`
+  - L2626: dropped orphan option `:class: longtable`
+  - L2626: dropped orphan option `:class: footnotesize`
+  - list-table -> 3-column pipe table (13 rows)
+  - L2668: dropped `!!! note "latex"` wrapper
+  - L2676: dropped `!!! note "latex"` wrapper
+  - L2680: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2683: dropped orphan option `:header-rows: 1`
+  - L2683: dropped orphan option `:class: longtable`
+  - L2683: dropped orphan option `:class: footnotesize`
+  - list-table -> 3-column pipe table (48 rows)
+  - L2798: dropped `!!! note "latex"` wrapper
+  - L2806: dropped `!!! note "latex"` wrapper
+  - L2810: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2813: dropped orphan option `:header-rows: 1`
+  - L2813: dropped orphan option `:class: longtable`
+  - L2813: dropped orphan option `:class: footnotesize`
+  - list-table -> 3-column pipe table (21 rows)
+  - L2868: dropped `!!! note "latex"` wrapper
+  - L2877: dropped orphan option `:class: note`
+  - L2926: dropped `!!! note "latex"` wrapper
+  - L2930: dropped `!!! note "\\Y{...}"` column-width marker
+  - L2933: dropped orphan option `:header-rows: 1`
+  - L2933: dropped orphan option `:class: footnotesize`
+  - list-table -> 4-column pipe table (81 rows)
+  - L3138: dropped `!!! note "latex"` wrapper
+  - L3146: dropped orphan option `:class: note`
+  - L3327: :class: warning -> `!!! warning`
+  - L3430: :class: tip -> `!!! tip`
+  - L3469: dropped orphan option `:class: note`
+  - L3525: :class: warning -> `!!! warning`
+  - L3676: dropped `!!! note "latex"` wrapper
+  - L3681: dropped orphan option `:class: footnotesize`
+  - L3714: dropped `!!! note "latex"` wrapper
+  - L3720: dropped `!!! note "latex"` wrapper
+  - L3725: dropped orphan option `:class: footnotesize`
+  - L3747: dropped `!!! note "latex"` wrapper
+  - L3750: dropped `!!! note "latex"` wrapper
+  - L3754: dropped `!!! note "\\Y{...}"` column-width marker
+  - L3757: dropped orphan option `:header-rows: 1`
+  - L3757: dropped orphan option `:class: longtable`
+  - L3757: dropped orphan option `:class: footnotesize`
+  - list-table -> 3-column pipe table (81 rows)
+  - L3989: dropped `!!! note "latex"` wrapper
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/essentialelements/coordinates.md:
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/essentialelements/index_essentialelements.md: no change
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/essentialelements/initialguess.md:
+  - L284: dropped `!!! note "latex"` wrapper
+  - L289: dropped orphan option `:header-rows: 1`
+  - L289: dropped orphan option `:class: footnotesize`
+  - list-table -> 2-column pipe table (12 rows)
+  - L323: dropped `!!! note "latex"` wrapper
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/essentialelements/input.md:
+  - L301: dropped orphan option `:header-rows: 1`
+  - L301: dropped orphan option `:class: longtable`
+  - list-table -> 2-column pipe table (54 rows)
+  - L510: dropped orphan option `:header-rows: 1`
+  - L510: dropped orphan option `:class: longtable`
+  - list-table -> 3-column pipe table (8 rows)
+  - L570: dropped orphan option `:header-rows: 1`
+  - L570: dropped orphan option `:class: longtable`
+  - list-table -> 3-column pipe table (25 rows)
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/essentialelements/output.md: no change
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/essentialelements/parallel.md:
+  - list-table -> 26 bullet(s)
+  - list-table -> 4 bullet(s)
+  - updated
+/Users/wxyhgk/Documents/Quamtum_Chemistry_md/orca/docs-site/docs/zh/manual/contents/essentialelements/scf.md:
+  - MyST target (compoundConvergenceThresholds)= -> <a id>
+  - MyST target (compoundAdditionalConvergenceThresholds)= -> <a id>
+  - L120: dropped orphan option `:header-rows: 1`
+  - list-table -> 2-column pipe table (83 rows)
+  - L298: dropped orphan option `:header-rows: 1`
+  - list-table -> 3-column pipe table (70 rows)
+  - L1050: dropped `!!! note "latex"` wrapper
+  - L1055: dropped orphan option `:header-rows: 1`
+  - L1055: dropped orphan option `:class: footnotesize`
+  - list-table -> 2-column pipe table (24 rows)
+  - L1107: dropped `!!! note "latex"` wrapper
+  - updated

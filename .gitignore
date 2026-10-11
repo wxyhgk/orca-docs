@@ -1,0 +1,28 @@
+# ORCA docs project — ignore local/tool junk and regenerable artifacts
+
+# tooling
+.mimocode/
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# symlinks / local shortcuts
+ORCA-6.1-Tutorials
+
+# MkDocs build output
+docs-site/site/
+
+# raw site crawl mirrors (HTML dump; re-downloadable)
+# keep optional small source extracts out of the way
+crawl/
+# PDF snapshots inside crawl if any remain
+
+# playwright / temp
+.playwright-cli/
+tmp/
+*.log
+
+# python venv
+.venv/
+venv/

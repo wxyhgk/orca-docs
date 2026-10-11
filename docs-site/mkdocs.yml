@@ -1,0 +1,377 @@
+site_name: ORCA 6.1 Tutorials
+site_description: ORCA 量子化学教程 / Quantum chemistry tutorials
+site_url: ""
+use_directory_urls: true
+
+docs_dir: docs
+site_dir: site
+
+hooks:
+  - hooks/mol_fence.py
+
+# mol fence handled by hook preprocessor (hooks/mol_fence.py)
+
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+    - toc.follow
+  logo: assets/fastmol-logo.svg
+  favicon: assets/favicon.svg
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: zh
+          name: 中文
+          build: true
+          nav_translations:
+            Home: 首页
+            First steps: 入门
+            How to Cite: 如何引用
+            Installing ORCA: 安装 ORCA
+            Hello water!: Hello water！
+            Input and Output: 输入与输出
+            Running in Parallel: 并行运行
+            Memory Settings: 内存设置
+            Graphical User Interfaces: 图形界面
+            Solving common issues: 常见问题
+            Workflows: 工作流
+            Compound Jobs: 复合作业
+            Extrapolation Techniques: 外推技术
+            External Methods: 外部方法
+            ORCA Python Interface: Python 接口
+            Properties: 性质
+            Single point energies: 单点能
+            Geometry optimization: 几何优化
+            Vibrational frequencies: 振动频率
+            Thermodynamics: 热力学
+            Implicit Solvation: 隐式溶剂化
+            Explicit Solvation: 显式溶剂化
+            Conformer Search (GOAT): 构象搜索
+            Relativistic corrections: 相对论校正
+            Dispersion corrections: 色散校正
+            Bond Analysis: 化学键分析
+            LED: 定域能分解
+            FOD: 分数占据密度
+            Charge Models: 电荷模型
+            ESP: 静电势
+            Correlated Energies: 相关能
+            Reactivity: 反应性
+            NEB-TS: NEB-TS
+            Transition State Optimization: 过渡态优化
+            Transition State Conformers: 过渡态构象
+            IRC: 内禀反应坐标
+            Accurate energy barriers: 精确能垒
+            KIE: 动力学同位素效应
+            Fukui functions: 福井函数
+            DOCKER: 自动对接
+            Spectroscopy: 波谱
+            Infrared and Raman: 红外与拉曼
+            UV/Vis: 紫外-可见
+            ECD: 电子圆二色
+            VCD: 振动圆二色
+            NMR: 核磁共振
+            EPR: 电子顺磁共振
+            Spin-Orbit Coupling: 自旋轨道耦合
+            Multiscale: 多尺度
+            QM/XTB ONIOM: QM/XTB ONIOM
+            ONIOM beyond QM/XTB: ONIOM 进阶
+            Multiscale NEB-TS: 多尺度 NEB-TS
+            Ionic-Crystal-QM/MM: 离子晶体 QM/MM
+            Fragmentation: 碎片化
+            Appendix: 附录
+            Bibliography: 参考文献
+            Index: 索引
+            Tutorials: 教程
+            Manual: 手册
+            Preface: 前言
+            Quick Start: 快速入门
+            Essential Elements: 核心要素
+            Model Chemistries: 模型方法
+            Structure & Reactivity: 结构与反应性
+            Spectroscopy & Properties: 波谱与性质
+            Molecular Dynamics: 分子动力学
+            Workflows: 工作流
+            Utilities: 工具
+            Architecture: 架构
+            About: 简介
+            Installation: 安装
+            GUI: 图形界面
+            Running: 运行
+            Hello water: Hello water
+            Recommendations: 建议
+            Troubleshooting: 故障排除
+            Input: 输入
+            Coordinates: 坐标
+            Basics: 基础
+            Output: 输出
+            Parallel: 并行
+            SCF: SCF
+            Initial guess: 初始猜测
+            Basis sets: 基组
+            RI: RI
+            Solvation: 溶剂化
+            Relativistic: 相对论
+            Symmetry: 对称性
+            Hartree-Fock: Hartree-Fock
+            DFT: 密度泛函
+            MP2: MP2
+            3c methods: 3c 方法
+            Dispersion: 色散
+            CASSCF: CASSCF
+            NEVPT2: NEVPT2
+            MRCI: MRCI
+            DLPNO methods: DLPNO 方法
+            Semiempirical: 半经验
+            Molecular mechanics: 分子力学
+            Optimizations: 优化
+            Transition states: 过渡态
+            Scans: 势能面扫描
+            IRC: IRC
+            NEB-TS: NEB-TS
+            Frequencies: 频率
+            Thermochemistry: 热化学
+            SOLVATOR: SOLVATOR
+            GOAT: GOAT
+            DOCKER: DOCKER
+            MECP: MECP
+            Conical intersections: 圆锥交叉
+            Vibrations: 振动
+            Excited states: 激发态
+            TD-DFT: TD-DFT
+            UV/Vis & ESD: UV/Vis 与 ESD
+            NMR: NMR
+            EPR: EPR
+            LED: LED
+            NBO: NBO
+            Spin-orbit: 自旋轨道
+            Magnetic properties: 磁性质
+            QM/MM general: QM/MM 总论
+            QM/MM molecules: QM/MM 分子体系
+            Crystal QM/MM: 晶体 QM/MM
+            MD: 分子动力学
+            Compound: Compound
+            Compound examples: Compound 示例
+            OPI: OPI
+            Plots: 绘图
+            Components: 组件
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.arithmatex:
+      generic: true
+  - tables
+  - footnotes
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - javascripts/mathjax/tex-mml-chtml.js
+  - javascripts/math-instant.js
+  - javascripts/fast-mol-viewer.iife.js
+  - javascripts/mol-embed.js
+  - javascripts/tabs-pin.js
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/mol-embed.css
+
+nav:
+  - Home: index.md
+  - Tutorials:
+      - First steps:
+          - How to Cite: first_steps/howtocite.md
+          - Installing ORCA: first_steps/install.md
+          - Hello water!: first_steps/first_calc.md
+          - Input and Output: first_steps/input_output.md
+          - Running in Parallel: first_steps/parallel.md
+          - Memory Settings: first_steps/memory.md
+          - Graphical User Interfaces: first_steps/GUI.md
+          - Solving common issues: first_steps/trouble_install.md
+      - Workflows:
+          - Compound Jobs: workflows/compound.md
+          - Extrapolation Techniques: workflows/extrapol.md
+          - External Methods: workflows/extopt.md
+          - ORCA Python Interface: workflows/opi.md
+      - Properties:
+          - Single point energies: prop/single_point.md
+          - Geometry optimization: prop/geoopt.md
+          - Vibrational frequencies: prop/freq.md
+          - Thermodynamics: prop/thermo.md
+          - Implicit Solvation: prop/cpcm.md
+          - Explicit Solvation: prop/solvator.md
+          - Conformer Search (GOAT): prop/goat.md
+          - Relativistic corrections: prop/relativistic.md
+          - Dispersion corrections: prop/disp.md
+          - Bond Analysis: prop/bonds.md
+          - LED: prop/led.md
+          - FOD: prop/fod.md
+          - Charge Models: prop/charges.md
+          - ESP: prop/esp.md
+          - Correlated Energies: prop/corren.md
+      - Reactivity:
+          - NEB-TS: react/nebts.md
+          - Transition State Optimization: react/tsopt.md
+          - Transition State Conformers: react/tsconf.md
+          - IRC: react/irc.md
+          - Accurate energy barriers: react/actibar.md
+          - KIE: react/KIE.md
+          - Fukui functions: react/FUKUI.md
+          - DOCKER: react/docker.md
+      - Spectroscopy:
+          - Infrared and Raman: spec/IR.md
+          - UV/Vis: spec/UVVis.md
+          - ECD: spec/ECD.md
+          - VCD: spec/vcd.md
+          - NMR: spec/NMR.md
+          - EPR: spec/EPR.md
+          - Spin-Orbit Coupling: spec/SOC.md
+      - Multiscale:
+          - QM/XTB ONIOM: multi/basics.md
+          - ONIOM beyond QM/XTB: multi/basics-otheroniom.md
+          - Multiscale NEB-TS: multi/oniom-nebts.md
+          - Ionic-Crystal-QM/MM: multi/ionic_crystal.md
+          - Fragmentation: multi/fragmentator.md
+  - Manual:
+      - manual/index.md
+      - Preface:
+          - manual/contents/preface/foreword.md
+          - manual/contents/preface/changes.md
+          - manual/contents/preface/howtocite.md
+          - manual/contents/preface/howtousethismanual.md
+      - Quick Start:
+          - manual/contents/quickstartguide/index_quickstartguide.md
+          - About: manual/contents/quickstartguide/about.md
+          - Installation: manual/contents/quickstartguide/installation.md
+          - GUI: manual/contents/quickstartguide/gui.md
+          - Running: manual/contents/quickstartguide/running.md
+          - Hello water: manual/contents/quickstartguide/hellowater.md
+          - Recommendations: manual/contents/quickstartguide/recommendations.md
+          - Troubleshooting: manual/contents/quickstartguide/troubleshooting.md
+      - Essential Elements:
+          - manual/contents/essentialelements/index_essentialelements.md
+          - Input: manual/contents/essentialelements/input.md
+          - Coordinates: manual/contents/essentialelements/coordinates.md
+          - Basics: manual/contents/essentialelements/basics.md
+          - Output: manual/contents/essentialelements/output.md
+          - Parallel: manual/contents/essentialelements/parallel.md
+          - SCF: manual/contents/essentialelements/scf.md
+          - Initial guess: manual/contents/essentialelements/initialguess.md
+          - Basis sets: manual/contents/essentialelements/basisset.md
+          - RI: manual/contents/essentialelements/RI.md
+          - Solvation: manual/contents/essentialelements/solvationmodels.md
+          - Relativistic: manual/contents/essentialelements/relativistic.md
+          - Symmetry: manual/contents/essentialelements/symmetry.md
+      - Model Chemistries:
+          - manual/contents/modelchemistries/index_modelchemistries.md
+          - Hartree-Fock: manual/contents/modelchemistries/hartreefock.md
+          - DFT: manual/contents/modelchemistries/DensityFunctionalTheory.md
+          - MP2: manual/contents/modelchemistries/MP2.md
+          - 3c methods: manual/contents/modelchemistries/3cmethods.md
+          - Dispersion: manual/contents/modelchemistries/dispersioncorrections.md
+          - CASSCF: manual/contents/modelchemistries/CASSCF.md
+          - NEVPT2: manual/contents/modelchemistries/NEVPT2.md
+          - MRCI: manual/contents/modelchemistries/mrci.md
+          - DLPNO methods: manual/contents/modelchemistries/mdci.md
+          - Semiempirical: manual/contents/modelchemistries/semiempirical.md
+          - Molecular mechanics: manual/contents/modelchemistries/mm.md
+      - Structure & Reactivity:
+          - manual/contents/structurereactivity/index_structurereactivity.md
+          - Optimizations: manual/contents/structurereactivity/optimizations.md
+          - Transition states: manual/contents/structurereactivity/optimizations_TS.md
+          - Scans: manual/contents/structurereactivity/optimizations_scans.md
+          - IRC: manual/contents/structurereactivity/irc.md
+          - NEB-TS: manual/contents/structurereactivity/neb.md
+          - Frequencies: manual/contents/structurereactivity/frequencies.md
+          - Thermochemistry: manual/contents/structurereactivity/thermochemistry.md
+          - SOLVATOR: manual/contents/structurereactivity/solvator.md
+          - GOAT: manual/contents/structurereactivity/goat.md
+          - DOCKER: manual/contents/structurereactivity/docker.md
+          - MECP: manual/contents/structurereactivity/mecp.md
+          - Conical intersections: manual/contents/structurereactivity/conicalintersections.md
+      - Spectroscopy & Properties:
+          - manual/contents/spectroscopyproperties/index_spectroscopyproperties.md
+          - Vibrations: manual/contents/spectroscopyproperties/vibrations.md
+          - Excited states: manual/contents/spectroscopyproperties/excitedstates.md
+          - TD-DFT: manual/contents/spectroscopyproperties/tddft.md
+          - UV/Vis & ESD: manual/contents/spectroscopyproperties/esd.md
+          - NMR: manual/contents/spectroscopyproperties/nmr.md
+          - EPR: manual/contents/spectroscopyproperties/epr.md
+          - LED: manual/contents/spectroscopyproperties/led.md
+          - NBO: manual/contents/spectroscopyproperties/nbo.md
+          - Spin-orbit: manual/contents/spectroscopyproperties/spinorbit.md
+          - Magnetic properties: manual/contents/spectroscopyproperties/magnx.md
+      - Multiscale:
+          - manual/contents/multiscalesimulations/index_multiscalesimulations.md
+          - QM/MM general: manual/contents/multiscalesimulations/qmmm-general.md
+          - QM/MM molecules: manual/contents/multiscalesimulations/qmmm-molecules.md
+          - Crystal QM/MM: manual/contents/multiscalesimulations/qmmm-crystal.md
+      - Molecular Dynamics:
+          - manual/contents/moleculardynamics/index_moleculardynamics.md
+          - MD: manual/contents/moleculardynamics/moldyn.md
+      - Workflows:
+          - manual/contents/workflowsautomatization/index_workflowsautomatization.md
+          - Compound: manual/contents/workflowsautomatization/compound.md
+          - Compound examples: manual/contents/workflowsautomatization/compound_examples.md
+          - OPI: manual/contents/workflowsautomatization/orcapythoninterface.md
+      - Utilities:
+          - manual/contents/utilitiesvisualization/index_utilitiesvisualization.md
+          - Utilities: manual/contents/utilitiesvisualization/utilities.md
+          - Plots: manual/contents/utilitiesvisualization/plots.md
+      - Architecture:
+          - manual/contents/orcaarchitecture/index_orcaarchitecture.md
+          - Architecture: manual/contents/orcaarchitecture/architecture.md
+          - Components: manual/contents/orcaarchitecture/components.md
+      - Appendix:
+          - manual/contents/appendix/glossary.md
+          - manual/contents/appendix/public.md
+          - Bibliography: manual/bibliography.md
+  - Appendix:
+      - Bibliography: bib.md
+      - Index: genindex.md
